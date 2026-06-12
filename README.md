@@ -24,7 +24,12 @@ A modern file archiver for Windows with AES-256 encryption, a custom `.xca` form
 
 ## Screenshots
 
-> _Coming soon_
+<img width="1064" height="727" alt="image" src="https://github.com/user-attachments/assets/3d7af4ba-da32-43d5-9597-a22bc0f1d624" />
+
+<img width="575" height="967" alt="image" src="https://github.com/user-attachments/assets/20d3fcc3-eed3-45a5-9f3c-e586945f8c2e" />
+
+<img width="324" height="84" alt="image" src="https://github.com/user-attachments/assets/b5fd63ca-8163-43ad-a61f-6fb3dc208a35" />
+
 
 ## Requirements
 
